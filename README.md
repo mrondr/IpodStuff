@@ -21,7 +21,7 @@ With the ipod connected to the computer with it's usb cable:
 10. Immediately saw the iPod screen showing a restore progress.
 11. Connect to itu es and sync your music.
 
-> I succeded in this on a 5th gen but not on a 6th gen. Go figure.
+I succeded in this on a 5th gen but not on a 6th gen, same adapter. Apparently that's common, at least according to [this comment](https://www.reddit.com/r/ipod/comments/1lrol77/comment/n1eh68k/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
 
 ## CF adapter modding
 
@@ -35,7 +35,7 @@ Instructions:
 - https://blog.kimiblock.top/2024/09/05/ipod-on-linux/index.html
 - http://www.ipodlinux.org/Restore_without_iTunes.html
 
-> I never succeded in this.
+I never succeded in this. But I only tried with the infamous red CF adapter on the 6th gen, which apparently is a doomed combination.
 
 ### Firmware upgrade for 6th gen
 https://github.com/Olsro/reddit-ipod-guides/blob/main/guides/ipod6g-flash-more-recent-firmwares.md
