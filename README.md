@@ -40,3 +40,6 @@ I never succeded in this. But I only tried with the infamous red CF adapter on t
 ### Firmware upgrade for 6th gen
 https://github.com/Olsro/reddit-ipod-guides/blob/main/guides/ipod6g-flash-more-recent-firmwares.md
 
+## 5th to 7th gen body compatibility
+https://web.archive.org/web/20221016230640/https://www.reddit.com/r/IpodClassic/comments/y5r2xe/how_to_body_swap_putting_a_6th_or_7th_gen/
+
