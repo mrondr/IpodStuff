@@ -2,7 +2,7 @@
 
 A collection of random useful things for Ipod modding.
 
-In case you end up here before you see [this repo](https://github.com/Olsro/reddit-ipod-guides), make sure to check it out. It's goldmine of infos
+In case you end up here before you see [opista's website](https://opista.com/posts/ipod-classic-modding-guide) and [Olsro's repo](https://github.com/Olsro/reddit-ipod-guides), make sure to check them out. They are goldmines of infos.
 
 ## CF adapter instructions
 
