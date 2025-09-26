@@ -43,3 +43,9 @@ https://github.com/Olsro/reddit-ipod-guides/blob/main/guides/ipod6g-flash-more-r
 ## 5th to 7th gen body compatibility
 https://web.archive.org/web/20221016230640/https://www.reddit.com/r/IpodClassic/comments/y5r2xe/how_to_body_swap_putting_a_6th_or_7th_gen/
 
+## 5th - 7th screen compatibility
+
+The two ribbon cable are similar but slightly different, with,the 7th gen one being wider. 
+You can use a 5th gen screen in a 7th gen but this will result in weird colors. 
+
+
